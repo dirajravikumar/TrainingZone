@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#banner {
+	font-family: 'Arvo', serif;
+	text-align: center;
+	font-size: xx-large;
+}
+
+#TabbedPanels1 .TabbedPanelsTabGroup .TabbedPanelsTab.TabbedPanelsTabSelected {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+
+#TabbedPanels1 .TabbedPanelsTabGroup .TabbedPanelsTab {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+
+.TabbedPanelsTabGroup{
+    text-align: center;
+}
+
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible p {
+	font-family: 'Cabin', sans-serif;
+	color: white;
+}
+
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible ul li {
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+	color: white;
+}
+
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible p em strong a {
+	font-family: 'Cabin', sans-serif;
+	color: #FFC107;
+}
+
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible p em a {
+	font-family: 'Cabin', sans-serif;
+	color: #FFC107;
+}
+
+.IndexParagraph {
+	font-family: 'Cabin', sans-serif;
+	color: white;
+}
+
+#footer {
+	font-family: 'Montserrat', sans-serif; 
+}
