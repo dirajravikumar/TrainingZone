@@ -47,3 +47,15 @@
 #footer {
 	font-family: 'Montserrat', sans-serif; 
 }
+
+
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible table tr td {
+	font-family: 'Cabin', sans-serif;
+	color: white;
+}
+
+
+#TabbedPanels1 .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible #form5 p label {
+	font-family: 'Cabin', sans-serif;
+	color: white;
+}
